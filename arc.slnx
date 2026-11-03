@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="arc/arc.vcxproj" Id="12654ee6-f70d-46c6-a430-9e663a2e86cd" />
+</Solution>
